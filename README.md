@@ -14,7 +14,7 @@ git clone https://github.com/cintiadantas20/programaLighthouse_eng_dados
 - Ambiente virtual
 Primeiro é necessário criar um ambiente virtual com este comando:
 ```
-virtualenv venv -p python3
+python -m venv venv
 ```
 Depois, ative o venv:
 ```
