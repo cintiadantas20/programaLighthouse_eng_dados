@@ -66,19 +66,19 @@ Rode o airflow, inserindo o usuário e a senha fornecidos na inicialização do 
  
 Crie uma variável no menu Admin/Variables com seu e-mail e salve:
 
-![](imagem2.png)
+![](/imagens/imagem2.png)
 
 Ligue o processamento da DAG no botão:
 
-![](imagem3.png)
+![](/imagens/imagem3.png)
 
 Engatilhe a DAG:
 
-![](imagem4.png)
+![](/imagens/imagem4.png)
 
 Verifique o processamento da DAG:
 
-![](imagem5.png)
+![](/imagens/imagem5.png)
 
 Não se esqueça de, no final de tudo:
 - Desligar a DAG no navegador e na linha de comando com um CTRL+C)
