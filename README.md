@@ -80,8 +80,10 @@ Verifique o processamento da DAG:
 
 ![](/imagens/imagem5.png)
 
+As funções e a DAG foram escritas no arquivo elt_dag.py, que está na pasta airflow-data/dags. Ela irá aparecer no navegador automaticamente, caso os passos sejam seguidos.
+
 Não se esqueça de, no final de tudo:
-- Desligar a DAG no navegador e na linha de comando com um CTRL+C)
+- Desligar a DAG no navegador e na linha de comando com um CTRL+C
 - Sair do docker com o comando sudo service docker stop
 - Desativar o venv, acessando a mesma pasta da ativação e digitando “deactivate”
 
