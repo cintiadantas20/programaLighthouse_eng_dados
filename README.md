@@ -62,7 +62,7 @@ Abra o seu navegador na porta 8080 no link: http://localhost:8080/
 
 Rode o airflow, inserindo o usuário e a senha fornecidos na inicialização do programa, a exemplo:
 
-![](imagem1.png)
+![](/imagens/imagem1.png)
  
 Crie uma variável no menu Admin/Variables com seu e-mail e salve:
 
